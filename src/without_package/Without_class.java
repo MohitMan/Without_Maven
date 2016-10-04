@@ -36,7 +36,6 @@ public class Without_class {
 		}
 		*/
 		System.out.println("Success dude11");
-		System.out.println("Success dude22");
 		driver.quit();
 	}
 
